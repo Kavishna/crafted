@@ -1,0 +1,2 @@
+# crafted
+simple landing page
